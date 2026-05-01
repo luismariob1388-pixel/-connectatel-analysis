@@ -1,10 +1,10 @@
-## 📊 Análisis de Clientes - ConnectaTel
+##  Análisis de Clientes - ConnectaTel
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 Este proyecto consiste en un análisis exploratorio de datos de una empresa de telecomunicaciones (ConnectaTel), con el objetivo de identificar patrones de uso, segmentar clientes y generar insights estratégicos para la toma de decisiones.
 
 
-## 🎯 Objetivo
+## Objetivo
 Analizar el comportamiento de los usuarios para:
 - Identificar patrones de uso
 - Detectar valores atípicos (outliers)
@@ -12,7 +12,7 @@ Analizar el comportamiento de los usuarios para:
 - Generar recomendaciones de negocio
 
 
-## 📁 Dataset
+##  Dataset
 El dataset contiene información de usuarios, incluyendo:
 - Edad (`age`)
 - Cantidad de mensajes (`cant_mensajes`)
@@ -21,7 +21,7 @@ El dataset contiene información de usuarios, incluyendo:
 - Tipo de plan (`plan`)
 
 
-## 🔍 Análisis realizado
+##  Análisis realizado
 
 ### 1. Análisis exploratorio
 - Resumen estadístico de variables
@@ -46,20 +46,20 @@ El dataset contiene información de usuarios, incluyendo:
   - Adulto Mayor
 
 
-## 📊 Hallazgos clave
+##  Hallazgos clave
 - La mayoría de los usuarios presenta un nivel de uso medio.
 - Existen usuarios con consumo alto (outliers), especialmente en minutos de llamada.
 - El grupo predominante de clientes es el de adultos (<60 años).
 - Los usuarios jóvenes representan una menor proporción.
 
 
-## 💡 Recomendaciones
+##  Recomendaciones
 - Crear planes premium para usuarios de alto consumo.
 - Diseñar estrategias para atraer usuarios jóvenes.
 - Optimizar planes actuales para usuarios de uso medio.
 
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 1. Descargar el archivo `.ipynb`
 2. Abrirlo en Google Colab o Jupyter Notebook
 3. Ejecutar las celdas en orden
